@@ -26,7 +26,7 @@
             "rank": 0
         }
     },
-    "icon": "ion-ios-list-outline",
+    "icon": "ion-document",
     "states": {
         "AFm": {
             "caption": "Saved PDF",
