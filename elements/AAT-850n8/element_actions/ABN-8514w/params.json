@@ -1,5 +1,5 @@
 {
-    "caption": "Create table on",
+    "caption": "Create table on PDFmake",
     "doc": "Creates a table element.",
     "fields": {
         "ABO": {
