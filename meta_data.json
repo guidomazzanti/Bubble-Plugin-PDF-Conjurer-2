@@ -5,7 +5,7 @@
         "2": "PDF"
     },
     "demo_page": "https://bubble.io/page?name=index&id=sdfsfsdfsdf&tab=tabs-1",
-    "description": "pdfmake\nClient/server side PDF printing in pure JavaScript\n\nclient-version bower install pdfmake\nserver-version npm install pdfmake",
+    "description": "pdfmake\nClient/server side PDF printing in pure JavaScript\n\nArchivos en:\nhttps://cdnjs.com/libraries/pdfmake\n\nToca ir revisando últimas versiones",
     "image": "//meta-q.cdn.bubble.io/f1701879612099x887379554653618000/Adobe%20image.png",
     "instructions": "Use the plugin actions in a workflow to create the pdf and finish it with a download, print or open pdf action.",
     "license": "private",
