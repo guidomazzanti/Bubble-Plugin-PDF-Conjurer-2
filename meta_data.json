@@ -2,7 +2,7 @@
     "categories": {
         "0": "visual elements",
         "1": "input forms",
-        "2": "productivity"
+        "2": "PDF"
     },
     "demo_page": "https://bubble.io/page?name=index&id=sdfsfsdfsdf&tab=tabs-1",
     "description": "pdfmake\nClient/server side PDF printing in pure JavaScript\n\nclient-version bower install pdfmake\nserver-version npm install pdfmake",

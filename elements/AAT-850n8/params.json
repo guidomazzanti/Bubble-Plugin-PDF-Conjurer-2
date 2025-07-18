@@ -2,8 +2,8 @@
     "add_is_visible": false,
     "category": "visual elements",
     "default_dim": {
-        "height": 8,
-        "width": 8
+        "height": 64,
+        "width": 64
     },
     "display": "PDFMake",
     "edit_mode_image": "//s3.amazonaws.com/appforest_uf/f1542511932086x750023629050701800/scroll-unfurled%281a%29.png",
