@@ -37,6 +37,9 @@ function(instance, properties, context) {
 
         instance.triggerEvent("debug_log_available")
 
+    } else {
+        
+        instance.publishState("debug_log_dump","")
     }
 
     if (!properties.no_browser_download) { // case the app maker doesn't wants the user to dl anything right now
