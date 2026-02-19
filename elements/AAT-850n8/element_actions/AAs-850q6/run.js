@@ -26,7 +26,7 @@ function(instance, properties, context) {
 
   instance.data.repeatingStructureObjectsHolder = {};
 
-/*  pdfMake.fonts = {
+  pdfMake.fonts = {
 
     Roboto: {
       normal: 'https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.12/fonts/Roboto/Roboto-Regular.ttf',
@@ -35,7 +35,7 @@ function(instance, properties, context) {
       bolditalics: 'https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.12/fonts/Roboto/Roboto-MediumItalic.ttf'
     },
 
-  } */
+  } 
 
 
 
